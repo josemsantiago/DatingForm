@@ -1,0 +1,22 @@
+{
+  "name": "dating-form",
+  "version": "1.0.0",
+  "description": "A dating application form built with HTML, CSS, and JavaScript",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "serve": "npx serve ."
+  },
+  "keywords": [
+    "form",
+    "dating",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Jose Santiago Echevarria",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
